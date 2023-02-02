@@ -3,4 +3,4 @@ echoschool
 #!/bin/bash
 echoschool
 !/bin/bash
-echoschool
+echo "The school is open!"
